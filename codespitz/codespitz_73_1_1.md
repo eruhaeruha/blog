@@ -32,14 +32,15 @@
 ---
 
 랙시컬 그래머
-control character 제어문자
-white space 공백문자
-line terminators 개행문자
-comments 주석
-keyword 예약어 (특정 기능을 수행하는 단어)
-literals 리터럴 (값을 나타내는 최소한의 표현, 더이상 쪼갤 수 없는 단위)
+* control character 제어문자
+* white space 공백문자
+* line terminators 개행문자
+* comments 주석
+* keyword 예약어 (특정 기능을 수행하는 단어)
+* literals 리터럴 (값을 나타내는 최소한의 표현, 더이상 쪼갤 수 없는 단위)
 
 자바스크립트 엔진이 텍스트를 만나면 텍스트를 이렇게 나누어서 보게 됨
+
 
 ---
 
